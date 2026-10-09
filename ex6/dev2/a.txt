@@ -1,0 +1,6 @@
+hello
+<<<<<<< HEAD
+quan quan quan
+=======
+world
+>>>>>>> 7860a812aa97263f98fedf07ff2d523a79bb4aab
